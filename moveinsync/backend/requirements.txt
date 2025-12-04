@@ -1,0 +1,34 @@
+# Core Framework
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+websockets
+
+# Database
+sqlalchemy
+alembic
+
+# LangChain & LangGraph
+langgraph
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langsmith
+
+# OpenAI (for audio & vision)
+openai
+
+# Multimodal Support
+pillow
+
+# Environment & Configuration
+python-dotenv
+python-multipart
+
+# Utilities
+requests
+
+# Voice Chat (Optional - only needed for voice features)
+livekit
