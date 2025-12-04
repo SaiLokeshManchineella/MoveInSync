@@ -8,6 +8,7 @@ websockets
 # Database
 sqlalchemy
 alembic
+psycopg2-binary
 
 # LangChain & LangGraph
 langgraph
