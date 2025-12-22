@@ -7,7 +7,7 @@ A FastAPI-based backend service with LangGraph AI agent for fleet management ope
 
 ### Deploy Link:
 
-http://13.126.22.77:8080
+http://35.154.149.27:8080/
 
 
 ## Architecture
